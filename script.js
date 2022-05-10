@@ -207,7 +207,7 @@ function makeChart(){
         changethreeimages();
         renderImage();
 
-        if (count === 5){
+        if (count === 25){
             removeImages();
             makeChart();
             }
